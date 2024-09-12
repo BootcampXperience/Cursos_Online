@@ -6,9 +6,9 @@
 
 En este repositorio, encontrarás una serie de carpetas organizadas por curso. Cada carpeta está equipada con todos los materiales y recursos necesarios para complementar las videoaulas y facilitar tu aprendizaje. La estructura es la siguiente:
 
-- **`Curso1/`**: Contiene ejemplos de código, notas, y proyectos prácticos para el primer curso.
-- **`Curso2/`**: Incluye materiales y recursos para el segundo curso.
-- **`CursoN/`**: Agrupa todos los elementos relevantes para el curso N.
+- **`Ciencia de Datos/`**: Contiene ejemplos de código, notas, y proyectos prácticos para lus cursos de Ciencia de Datos.
+- **`Machine Learning/`**: Incluye materiales y recursos para lus cursos de Machine Learning.
+- **`Machine Learning/CursoN/`**: Contiene los recursos y bases del CursoN de la especialidad de Machine Learning.
 
 Cada carpeta está diseñada para proporcionar una experiencia de aprendizaje completa, permitiéndote practicar y aplicar los conocimientos adquiridos en las videoaulas.
 
