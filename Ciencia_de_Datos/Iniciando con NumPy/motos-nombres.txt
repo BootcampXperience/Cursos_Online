@@ -1,0 +1,258 @@
+Yamaha YZF-R3  
+Suzuki GSX-R750  
+Kawasaki Z900  
+Ducati Monster 821  
+Harley-Davidson Iron 883  
+Honda CBR500R  
+Triumph Bonneville  
+KTM 390 Duke  
+Yamaha MT-07  
+BMW R1250GS  
+Indian Scout  
+Aprilia Tuono V4  
+Honda CRF250L  
+Ducati Multistrada  
+Royal Enfield Classic 350  
+Kawasaki Ninja ZX-10R  
+Suzuki V-Strom 650  
+BMW F850GS  
+Harley-Davidson Softail  
+KTM Adventure 790  
+Honda Rebel 500  
+Triumph Tiger 900  
+Yamaha MT-09  
+Ducati Panigale V2  
+Kawasaki Versys 650  
+Honda NC750X  
+Yamaha XSR700  
+KTM RC 390  
+Ducati Scrambler  
+Royal Enfield Himalayan  
+BMW S1000RR  
+Harley-Davidson Fat Boy  
+Suzuki Hayabusa  
+Kawasaki Z1000  
+Indian Chief Classic  
+Moto Guzzi V7  
+Ducati Streetfighter V4  
+Honda CBR1000RR  
+Yamaha R1  
+BMW K1600GT  
+KTM 1290 Super Duke  
+Triumph Speed Triple  
+Harley-Davidson Breakout  
+Kawasaki KX450  
+Honda CRF450R  
+Suzuki DR-Z400S  
+Yamaha MT-10  
+Ducati XDiavel  
+KTM 690 Enduro R  
+Royal Enfield Meteor 350  
+BMW R nineT  
+Yamaha WR250R  
+Aprilia RS660  
+Honda Africa Twin  
+Kawasaki KLR650  
+Ducati Diavel  
+Triumph Trident 660  
+BMW C 400 GT  
+Indian Chieftain  
+Yamaha FJR1300  
+Kawasaki Vulcan S  
+Ducati Multistrada V4  
+Harley-Davidson Road King  
+KTM 250 Duke  
+Moto Guzzi California Touring  
+Yamaha Niken  
+Kawasaki W800  
+Ducati Monster 1200  
+BMW K1200LT  
+Honda Gold Wing  
+Yamaha MT-09 SP  
+Harley-Davidson Street Rod  
+KTM 890 Duke  
+Royal Enfield Interceptor 650  
+Ducati Panigale V4 R  
+Suzuki GSX-S750  
+BMW R18  
+Kawasaki Ninja H2  
+Triumph Tiger 1200  
+Yamaha XJ6  
+Ducati Hypermotard  
+BMW F900R  
+KTM 390 Adventure  
+Indian FTR 1200  
+Kawasaki Z650  
+Honda CBR650R  
+Ducati Multistrada 1260  
+Yamaha Tenere 700  
+Kawasaki ZX-6R  
+Harley-Davidson LiveWire  
+KTM 1290 Super Adventure  
+Ducati Scrambler Desert Sled  
+Honda CB650R  
+Yamaha NMAX 155  
+Kawasaki KLX230  
+Suzuki V-Strom 1050  
+Kawasaki Ninja 400  
+Ducati Monster 1200 S  
+Harley-Davidson Pan America  
+BMW F850GS Adventure  
+KTM 890 Adventure  
+Suzuki GSX-R1000  
+Yamaha MT-125  
+Kawasaki Ninja 125  
+Ducati Streetfighter V4 SP  
+Triumph Speed Twin  
+Yamaha FZ-07  
+Kawasaki KX450F  
+Harley-Davidson Heritage Classic  
+Ducati 848 EVO  
+BMW K 1600 B  
+Yamaha Tracer  
+KTM 390 Duke R  
+Kawasaki Ninja ZX-14R  
+Ducati Panigale V4 S  
+Yamaha YZF-R1M  
+BMW R1250R  
+Kawasaki ZH2  
+Triumph Bonneville Bobber  
+Harley-Davidson Sportster S  
+Ducati 1098  
+KTM 790 Adventure R  
+Suzuki GSX-R600  
+Yamaha Ténéré 700  
+BMW F850R  
+Kawasaki KLX300R  
+Ducati Streetfighter V4  
+Royal Enfield Himalayan 450  
+Harley-Davidson Fat Bob  
+Yamaha FZ6R  
+Kawasaki Z125 Pro  
+Honda CBR300R  
+Ducati 959 Panigale  
+KTM 790 Duke  
+BMW K1300R  
+Indian FTR Rally  
+Kawasaki Ninja 250  
+Ducati 996  
+Suzuki SV650  
+Yamaha R3  
+Triumph Rocket 3  
+KTM 1290 Super Duke GT  
+Kawasaki KX250F  
+Ducati Monster 797  
+Yamaha XSR900  
+Royal Enfield Classic 500  
+Honda CRF1000L Africa Twin  
+Kawasaki Vulcan 900 Classic  
+Harley-Davidson Softail Slim  
+Ducati 848  
+KTM 450 SX-F  
+Yamaha YZF-R1  
+Suzuki Boulevard M109R  
+Triumph Daytona 675  
+Kawasaki ZX-10RR  
+Ducati Multistrada 950  
+Harley-Davidson Street 750  
+BMW S1000R  
+Yamaha MT-09 Tracer  
+KTM 890 Adventure R  
+Royal Enfield Continental GT 650  
+Honda Gold Wing F6B  
+Kawasaki Z400  
+Ducati 1299 Panigale  
+BMW K1200RS  
+Harley-Davidson Roadster  
+Yamaha TMAX 560  
+KTM 250 SX-F  
+Suzuki GSX-R1000R  
+Triumph Scrambler 1200  
+Kawasaki ZX-14R  
+Ducati Diavel 1260 S  
+Yamaha YZF-R6  
+Royal Enfield Bullet 350  
+Honda Rebel 1100  
+Kawasaki KLR650  
+KTM 790 Adventure  
+Ducati Panigale V4 Speciale  
+BMW R1250GS Adventure  
+Triumph Thruxton R  
+Yamaha MT-10 SP  
+Kawasaki Z900RS  
+Ducati Scrambler 1100  
+Harley-Davidson Livewire  
+KTM 690 SMC R  
+Yamaha FZ-09  
+Suzuki GSX-R750R  
+Kawasaki Ninja ZX-6R  
+Ducati Multistrada 1200  
+BMW F850GS Adventure  
+Indian Chief Dark Horse  
+Yamaha XSR700  
+KTM 890 Duke R  
+Ducati Panigale V4 R  
+Kawasaki Ninja 300  
+Royal Enfield Interceptor 650  
+Triumph Speed Triple RS  
+Harley-Davidson Electra Glide  
+BMW K1600GT  
+Yamaha WR250F  
+KTM 500 EXC-F  
+Ducati 998  
+Kawasaki Z125 Pro  
+Honda CB500F  
+Yamaha Ténéré 700 Rally  
+Kawasaki Ninja H2R  
+Suzuki GSX-S1000GT  
+Ducati 996  
+Harley-Davidson Road King Special  
+BMW S1000RR M  
+KTM 390 Duke R  
+Yamaha YZF-R1M  
+Ducati Multistrada V4 S  
+Kawasaki ZX-10R  
+Honda CBR600RR  
+Royal Enfield Classic 350  
+Triumph Street Triple  
+Kawasaki Z1000SX  
+Yamaha FZ1  
+Ducati Scrambler Icon  
+KTM 390 Adventure  
+Harley-Davidson Fat Boy Special  
+BMW F900R  
+Kawasaki Ninja H2 SX  
+Ducati XDiavel  
+Suzuki V-Strom 650XT  
+Yamaha MT-03  
+Triumph Thruxton  
+Kawasaki Vulcan S  
+Ducati Diavel 1260  
+Harley-Davidson Iron 1200  
+BMW K1600B  
+Yamaha FZ-10  
+KTM 250 XC-F  
+Suzuki GSX-R125  
+Ducati 959 Panigale  
+Kawasaki Z1000R  
+Triumph Rocket 3 R  
+Royal Enfield Meteor 350  
+KTM 690 Enduro R  
+Yamaha TMAX  
+Ducati Streetfighter V4 S  
+Kawasaki Ninja 650  
+Honda CB1000R  
+Harley-Davidson Breakout  
+BMW R18 Classic  
+KTM 390 Duke R  
+Yamaha YZF-R6  
+Suzuki SV650X  
+Ducati 1199 Panigale  
+Kawasaki Z900  
+Triumph Speedmaster  
+Royal Enfield Classic 500  
+KTM 890 Adventure R  
+Yamaha FJ-09  
+Ducati 1299 Panigale R  
+Kawasaki Ninja ZX-10R  
+Harley-Davidson Sportster S
